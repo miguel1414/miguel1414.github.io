@@ -1,0 +1,50 @@
+body{
+
+	font-size: 16px;
+	border: 1px solid black;
+	margin: 0 auto;
+	text-align: center;
+	background: gray;
+}
+
+#menu{
+
+	margin: 0;
+	padding: 0;
+	list-style-type: none;/*le quita los puntos de la lista*/
+}
+
+#menu li{
+
+	display: inline-block;/*para ordenar la lista en bloques*/
+	padding: 1em;
+	border: 1px solid white;
+	width: 150px;
+	background: green;
+}
+
+#home
+{
+	background: red; 
+
+}
+
+#servicios
+{
+	background: blue;
+}
+
+#quienes{
+
+	background: white;
+}
+
+#contacto{
+	background: green;
+}
+
+.comun
+{
+	height: 700px;
+	border:1px solid white;
+}
